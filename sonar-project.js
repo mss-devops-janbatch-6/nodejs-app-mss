@@ -9,7 +9,7 @@ sonarqubeScanner({
 	    'sonar.login': '1637c0ff1c210787724cdb8a26581edf0ab8e31d',
 	    //'sonar.login': 'admin',
 	    //'sonar.password': 'vineela',
-            'sonar.projectVersion':'1.0',
+            'sonar.projectVersion':'1.0.0',
 	    'sonar.language':'js',
             'sonar.sourceEncoding':'UTF-8',
             'sonar.sources': '.',
